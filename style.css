@@ -1,10 +1,10 @@
 body {
-    background-color: #c4ff56;
+    background-color: #cefc79;
     
 }
 
 header{
-     background-color: #56ff89;
+     background-color: #90f8b0;
 }
 
 #imagemprincipal {
@@ -17,7 +17,7 @@ header{
 }
 main {
 
-    background-color: rgb(239,25,123);
+    background-color: rgb(248, 210, 227);
 }
 
 
@@ -25,7 +25,7 @@ h1 { color:black;
     font: size 50px;
 }
 b {
-	color: #FFBE56;
+	color: #ebd0a6;
 	font-size: 50px ;
 }
 
@@ -33,14 +33,14 @@ b {
     font-size: 40px;
 } 
 
-i { color:#FFBE56;
+i { color:#f7e0bb;
  }
 footer {
-   background-color: #FFBE56;
+   background-color: #fadfb2;
 }
 
 .momentos{
-    background-color: #F783CB;
+    background-color: #f3dbea;
     margin: 10px;
     padding: 10px;
     border: black solid 2px;
