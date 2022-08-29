@@ -17,7 +17,7 @@ header{
 }
 main {
 
-    background-color: rgb(248, 210, 227);
+    background-color: rgb(179, 238, 174);
 }
 
 
@@ -25,7 +25,7 @@ h1 { color:black;
     font: size 50px;
 }
 b {
-	color: #ebd0a6;
+	color: #f3f02a;
 	font-size: 50px ;
 }
 
@@ -33,14 +33,14 @@ b {
     font-size: 40px;
 } 
 
-i { color:#f7e0bb;
+i { color:#eee234;
  }
 footer {
-   background-color: #fadfb2;
+   background-color: #ebee41;
 }
 
 .momentos{
-    background-color: #f3dbea;
+    background-color: #61d0f1;
     margin: 10px;
     padding: 10px;
     border: black solid 2px;
@@ -62,5 +62,5 @@ footer {
 }
 
 li::marker {
-    content: "🍗";
+    content: "image.png";
 }
