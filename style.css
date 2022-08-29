@@ -25,7 +25,7 @@ h1 { color:black;
     font: size 50px;
 }
 b {
-	color: #f3f02a;
+	color: #141411;
 	font-size: 50px ;
 }
 
@@ -33,10 +33,10 @@ b {
     font-size: 40px;
 } 
 
-i { color:#eee234;
+i { color:#1b1b16;
  }
 footer {
-   background-color: #ebee41;
+   background-color: #272720;
 }
 
 .momentos{
@@ -61,6 +61,3 @@ footer {
 
 }
 
-li::marker {
-    content: "image.png";
-}
